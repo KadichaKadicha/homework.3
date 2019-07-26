@@ -10,6 +10,9 @@ public class Main {
 
         for (String i : names) {
 
+
+
+
             switch (i) {
                 case "Masha":
                     System.out.println("Доброе утро " + "," + i + "!");
